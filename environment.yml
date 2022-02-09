@@ -10,7 +10,8 @@ dependencies:
   - pandoc
   - nbconvert
   - ipykernel
-  - gxx_linux-64
+  #- gxx_linux-64
+  - mingw-w64
   - libgcc
   - pip:
     - nbsphinx
